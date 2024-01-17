@@ -1,0 +1,20 @@
+footer{
+    margin: 0;
+    background-color: #141414;
+    color: gray;
+    font-family:sans-serif;
+}
+footer .info {
+    padding-left: 20px;
+    font-size: 11px;
+    margin-bottom: 15px;
+    padding-bottom: 100px;
+}
+
+footer .info >a{
+    color: gray;
+}
+footer .info >a:hover{
+    color: gray;
+}
+
